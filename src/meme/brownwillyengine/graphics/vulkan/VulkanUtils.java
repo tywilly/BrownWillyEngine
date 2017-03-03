@@ -1,4 +1,4 @@
-package meme.brownwillyengine.vulkan;
+package meme.brownwillyengine.graphics.vulkan;
 
 import static org.lwjgl.system.MemoryUtil.*;
 import static org.lwjgl.vulkan.EXTDebugReport.VK_EXT_DEBUG_REPORT_EXTENSION_NAME;
